@@ -258,7 +258,7 @@ body .spaceSection {
 }
 @media (min-width: 992px) {
   body .bmiExplain {
-    background-image: url("../../../../bmi-calculator/starter-code/assets/images/pattern-curved-line-left.svg");
+    background-image: url("../../../assets/images/pattern-curved-line-left.svg");
     background-repeat: no-repeat;
     background-position: top right;
   }
@@ -303,7 +303,7 @@ body .bmiLimitationDesktop {
 @media (min-width: 992px) {
   body .bmiLimitationDesktop {
     display: inherit;
-    background-image: url("../../../../bmi-calculator/starter-code/assets/images/pattern-curved-line-right.svg");
+    background-image: url("../../../assets/images/pattern-curved-line-right.svg");
     background-repeat: no-repeat;
     background-position: 20% center;
   }
